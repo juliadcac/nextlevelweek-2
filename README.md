@@ -1,2 +1,2 @@
 # nextlevelweek 2
- projeto criado na NLW2 da rockeset
+ Projeto criado durante a NLW2 da rockeset
